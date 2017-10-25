@@ -1,6 +1,6 @@
 #include <iostream>
 
-void Log(const char* message)
+void Log(const char* yugiohy)
 {
-	std::cout << message << std::endl;
+	std::cout << yugiohy << std::endl;
 }
