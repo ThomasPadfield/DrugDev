@@ -14,3 +14,5 @@ void duby(const char* dubi dubi doo)
 {
 	std::cout << dubi dubi doo << std::endl;
 }
+
+void per();
