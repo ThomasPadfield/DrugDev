@@ -12,5 +12,6 @@ void Logs(const char* yugiohy)
 
 void duby(const char* dubi dubi doo)
 {
-	std::cout << dubi dubi doo << std::endl;
+	std::cout << dubi dubi dubi doo << std::endl;
 }
+
